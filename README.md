@@ -1,4 +1,4 @@
-# GauVendi
+# GauVendi GmbH
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,13 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GauVendi provides a Sales Operating Platform for hospitality businesses, leveraging AI-driven inventory and revenue optimization. Their solution enables hotels, boutique accommodations, and vacation rentals to dynamically create personalized offers, match guests with suitable rooms, and maximize revenue across booking, distribution, and channel management. The platform includes tools such as Matchr‑AI, PickYourMatch, Inventi Flow, and Flexi Channel, offering a comprehensive suite for sales, marketing, and asset intelligence.
+GauVendi GmbH provides a sales operating platform that enables hotels to sell rooms in multiple ways through booking, distribution, and revenue optimization. The solution uses dynamic, AI‑ready inventory to create offers matched to guests' needs and reasons to stay.
 
-**Areas:** Hospitality · Sales · AI · Revenue Optimization · Platform
+**Areas:** Booking · Distribution · Revenue Optimization
 
-## GauVendi on APIs.io
+## GauVendi GmbH on APIs.io
 
-Everything profiled for GauVendi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gauvendi/](https://apis.io/providers/gauvendi/)** — or go straight to one of the APIs or properties below.
+Everything profiled for GauVendi GmbH is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gauvendi/](https://apis.io/providers/gauvendi/)** — or go straight to one of the APIs or properties below.
 
 ### Published properties
 
@@ -80,34 +80,30 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [GauVendi Domain Security](https://apis.io/security/gauvendi/gauvendi-domain-security/)
+- [GauVendi GmbH Domain Security](https://apis.io/security/gauvendi/gauvendi-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.gauvendi.com/)
-- [Documentation](https://www.gauvendi.com/sopintro)
-- [API reference](https://www.gauvendi.com/solutions)
+- [Website](https://gauvendi.com/)
 - [Pricing](https://www.gauvendi.com/pricing)
 - [Blog](https://www.gauvendi.com/blog)
-- [Terms of service](https://www.gauvendi.com/gtc)
-- [Privacy policy](https://www.gauvendi.com/data-protection)
 
 ## API Evangelist rating
 
-**Kin Score 12.6** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 5.1** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 39.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 19.0 |
-| Access clarity | 25.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
 
-**Agent readiness 4.0** — human-only
+**Agent readiness 6.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -122,7 +118,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -134,7 +130,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gauvendi/](https://apis.io/providers/gauvendi/).
 
@@ -142,7 +138,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GauVendi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for GauVendi GmbH: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
